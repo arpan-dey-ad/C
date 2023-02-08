@@ -5,10 +5,7 @@ void pop();
 void push();
 void show();
 
-int main() {
-    push();
-    push();
-    push();
+void main() {
     push();
     push();
     push();
@@ -19,8 +16,6 @@ int main() {
     show();
     push();
     show();
-
-    return 0;
 }
 
 void push ()  
