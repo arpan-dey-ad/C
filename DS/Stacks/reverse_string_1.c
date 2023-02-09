@@ -20,6 +20,5 @@ void main()
         str[right] = temp;  
         right--;  
     }  
-    printf (" The reverse of the original string is: %s ",  str);  
-    getch();  
+    printf (" The reverse of the original string is: %s ",  str); 
 }  
