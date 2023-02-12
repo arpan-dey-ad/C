@@ -4,10 +4,8 @@
 void main()  
 {  
     char str[50], temp;  
-    int i, left, right, len;  
-    printf (" \n Display a reverse string in the C: \n");  
-    printf (" ----------------------- ");  
-    printf (" \n Enter a string to reverse order: ");  
+    int i, left, right, len; 
+    printf ("Enter a string to reverse order: ");  
     scanf( "%s", &str);  
     len = strlen(str);  
     left = 0;  
