@@ -38,4 +38,3 @@ int solution_sort(int a[], int)
         }
     }
 }
-
