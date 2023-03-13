@@ -25,4 +25,4 @@ void main()
     puts(a);
     puts(b);
 }
-//how to use puts in c?
+
